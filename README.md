@@ -1,6 +1,4 @@
-Enjoy the Free code + Assets 😍
-- Support us on YouTube Channel: https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the Vroom Vide repository! This project is dedicated to revolutionizing the way you experience [brief description, e.g., vehicle rentals, automotive services, or driving experiences]. Explore the code, contribute your ideas, or help enhance its functionality. Whether you're here to learn or collaborate, your input is valued. Let’s build something extraordinary together with Vroom Vide!
 
 Currently, two official plugins are available:
 
